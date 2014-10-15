@@ -10,12 +10,14 @@
     </head>
     <body>
 
+    <div class="wrapper">
     <div class="container">
 
         <img src="logo-white.png">
 
         <a class="btn" href="http://external.app.auki.io/connect/<?php echo $token; ?>">Connect to WiFi</a>
 
+    </div>
     </div>
 
     </body>
