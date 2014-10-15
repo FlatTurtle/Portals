@@ -3,6 +3,10 @@
     src: url(SohoGothicPro-Medium.otf);
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
     font-family: 'Soho Gothic', Helvetica, Arial, sans-serif;
 
@@ -12,6 +16,7 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+
 .container {
     max-width: 600px;
     margin: auto;
