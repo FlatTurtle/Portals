@@ -15,6 +15,8 @@
 
         <img src="logo-white.png">
 
+        <p>Welcome</p>
+
         <a class="btn" href="http://external.app.auki.io/connect/<?php echo $token; ?>">Connect to WiFi</a>
 
     </div>

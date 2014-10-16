@@ -8,6 +8,7 @@ html, body {
 }
 
 body {
+    color: #FFF;
     font-family: 'Soho Gothic', Helvetica, Arial, sans-serif;
 
     background: url(background.jpg) no-repeat center center fixed;
@@ -36,10 +37,16 @@ body {
 
 .container img {
     width: 100%;
-    margin-bottom: 50px;
+}
+
+p {
+    margin: 0;
+    font-size: 25px;
 }
 
 .btn {
+    display: inline-block;
+    margin-top: 60px;
     border: 4px solid #FFF;
     background-color: rgba(0,0,0,0.05);
     color: #FFF;
